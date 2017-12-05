@@ -1,0 +1,27 @@
+body{
+	background: url("../img/background1.jpg") no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+#login-panel{
+	background-color: white;
+	height: 350px;
+	position: relative;
+	top: 50px;
+	border-radius: 10px;
+}
+
+#login-panel .logo{
+	height: 150px;
+}
+
+#login-panel .auth-inputs{
+	margin-top: 50px;
+}
+
+nav{
+	background-color: white !important;
+}
